@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { getMarcas, getModelos, getValor } from "./controllers/consultaFipeController.ts";
+// import { getMarcas, getModelos, getValor } from "./controllers/consultaFipeController"; 
 
 const router = Router();
 
