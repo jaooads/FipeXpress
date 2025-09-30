@@ -1,0 +1,25 @@
+{
+  "name": "fipexpress",
+  "version": "1.0.0",
+  "description": "FipeXpress é uma API em **Node.js + Express** integrada à **Brasil API** que permite **login e cadastro de usuários** e consultas à **Tabela FIPE**.  \r Com ela, você pode buscar valores de veículos, salvar favoritos e comparar preços de forma simples e rápida.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaooads/FipeXpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaooads/FipeXpress/issues"
+  },
+  "homepage": "https://github.com/jaooads/FipeXpress#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
