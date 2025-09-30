@@ -26,7 +26,7 @@ Com ela, você pode buscar valores de veículos, salvar favoritos e comparar pre
 ## 📦 Instalação
 ```bash
 # clonar o repositório
-git clone https://github.com/seu-usuario/fipexpress.git
+git clone https://github.com/jaooads/FipeXpress.git
 
 # entrar na pasta
 cd fipexpress
